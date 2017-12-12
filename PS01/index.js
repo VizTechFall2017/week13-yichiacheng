@@ -167,79 +167,79 @@ d3.queue()
 
 //green
                 Arraylist1=[
-                    {long:-71.0622954369, lat:42.3561971861, title:'park street'},
-                    {long:-71.0648703575, lat:42.3523914894},
-                    {long:-71.070498, lat:42.351868},
-                    {long:-71.078089, lat:42.349962},
-                    {long:-71.088396, lat:42.348097},
-                    {long:-71.0815858841, lat:42.3456358101},
-                    {long:-71.085095, lat:42.342697},
-                    {long:-71.0888922215, lat:42.3403227355},
-                    {long:-71.0954797268, lat:42.3377215443},
-                    {long:-71.100652, lat:42.3377215443},
-                    {long:-71.059895, lat:42.359297},
-                    {long:-71.058996, lat:42.362498},
-                    {long:-71.061423, lat:42.365512},
-                    {long:-71.0681641102, lat:42.3666775177},
+                    {long:-71.0622954369, lat:42.3561971861, title:'Park Street'},
+                    {long:-71.0648703575, lat:42.3523914894, title:"Boylston"},
+                    {long:-71.070498, lat:42.351868, title: "Arlington"},
+                    {long:-71.078089, lat:42.349962, title: "Copley"},
+                    {long:-71.088396, lat:42.348097,title: "Hynes Convention Center" },
+                    {long:-71.0815858841, lat:42.3456358101,title: "Prudential"},
+                    {long:-71.085095, lat:42.342697,title: "Symphony"},
+                    {long:-71.0888922215, lat:42.3403227355,title: "Northeaster"},
+                    {long:-71.0954797268, lat:42.3377215443, title: "Museum of Fine Arts"},
+                    {long:-71.100652, lat:42.3377215443,title: "Longwood Medical Area"},
+                    {long:-71.059895, lat:42.359297,title: "Babcock Street"},
+                    {long:-71.058996, lat:42.362498,title: "BU East"},
+                    {long:-71.061423, lat:42.365512,title: "BU East"},
+                    {long:-71.0681641102, lat:42.3666775177,title: "Science Park"},
                     //{long:-71.076884, lat:42.370582},
-                    {long:-71.095296, lat:42.348797},
-                    {long:-71.1043953896, lat:42.3452869056},
-                    {long:-71.100796, lat:42.349297},
-                    {long:-71.103825, lat:42.349648},
-                    {long:-71.1043953896, lat:42.3499335211},
+                    {long:-71.095296, lat:42.348797,title: "Kenmore"},
+                    {long:-71.1043953896, lat:42.3452869056,title: "Fenway"},
+                    {long:-71.100796, lat:42.349297,title: "Blandford Street"},
+                    {long:-71.103825, lat:42.349648,title: "BU East"},
+                    {long:-71.1043953896, lat:42.3499335211,title: "BU Central"},
 
-                    {long:-71.1140727997, lat:42.350900862},
-                    {long:-71.1159074306, lat:42.3511308015},
-                    {long:-71.1182141304, lat:42.3513448824},
-                    {long:-71.1212611198, lat:42.3517413265},
-                    {long:-71.1248660088, lat:42.3520743376},
-                    {long:-71.1310243607, lat:42.3502348256},
-                    {long:-71.1341571808, lat:42.3487124302},
-                    {long:-71.1377835274, lat:42.3484428354},
-                    {long:-71.1043953896, lat:42.3484745525},
-                    {long:-71.1428689957, lat:42.3436850916},
-                    {long:-71.1043953896, lat:42.3414964086},
-                    {long:-71.1513018608, lat:42.3403385961},
-                    {long:-71.1577820778, lat:42.3395772832},
-                    {long:-71.1661934853, lat:42.3399420801},
-                    {long:-71.1533403397, lat:42.338086352}];
+                    {long:-71.1140727997, lat:42.350900862,title: "BU West"},
+                    {long:-71.1159074306, lat:42.3511308015,title: "St Paul Street"},
+                    {long:-71.1182141304, lat:42.3513448824,title: "Pleasant Street"},
+                    {long:-71.1212611198, lat:42.3517413265,title: "Babcock Street"},
+                    {long:-71.1248660088, lat:42.3520743376,title: "Packards Corner"},
+                    {long:-71.1310243607, lat:42.3502348256,title: "Harvard Avenue"},
+                    {long:-71.1341571808, lat:42.3487124302,title: "Griggs Street"},
+                    {long:-71.1377835274, lat:42.3484428354,title: "Allston Street"},
+                    {long:-71.1043953896, lat:42.3484745525,title: "Warren Street"},
+                    {long:-71.1428689957, lat:42.3436850916,title: "Washington Street"},
+                    {long:-71.1043953896, lat:42.3414964086,title: "Sutherland Street"},
+                    {long:-71.1513018608, lat:42.3403385961,title: "Chiswick Road"},
+                    {long:-71.1577820778, lat:42.3395772832,title: "South Street"},
+                    {long:-71.1661934853, lat:42.3399420801,title: "Boston College"},
+                    {long:-71.1533403397, lat:42.338086352,title: "Chestnut Hill"}];
 
                     Arraylist2=[
 //orange
-                    {long:-71.060788, lat:42.355295},
-                    {long:-71.062892, lat:42.352228},
-                    {long:-71.063795, lat:42.349873},
-                    {long:-71.0760390759, lat:42.3472772215},
-                    {long:-71.0832166672, lat:42.3415519196},
-                    {long:-71.0905230045, lat:42.3356674788},
-                    {long:-71.0954046249, lat:42.3315274209},
-                    {long:-71.1000823975, lat:42.3227388088},
-                    {long:-71.1028289795, lat:42.3192008078},
-                    {long:-71.107313633, lat:42.3105691548},
-                    {long:-71.113411, lat:42.300362}];
+                    {long:-71.060788, lat:42.355295,title: "Downtown Crossing"},
+                    {long:-71.062892, lat:42.352228,title: "Chinatown"},
+                    {long:-71.063795, lat:42.349873,title: "Tufts Medical Center"},
+                    {long:-71.0760390759, lat:42.3472772215,title: "Back Bay"},
+                    {long:-71.0832166672, lat:42.3415519196,title: "Massachusetts Avenue"},
+                    {long:-71.0905230045, lat:42.3356674788,title: "Ruggles"},
+                    {long:-71.0954046249, lat:42.3315274209,title: "Roxybury Crossing"},
+                    {long:-71.1000823975, lat:42.3227388088,title: "Jackson Square"},
+                    {long:-71.1028289795, lat:42.3192008078,title: "Stony Brook"},
+                    {long:-71.107313633, lat:42.3105691548,title: "Green Street"},
+                    {long:-71.113411, lat:42.300362,title: "Forest Hill"}];
 
                     Arraylist3=[
 //red
-                    {long:-71.0549998283, lat:42.351709611},
-                    {long:-71.05713, lat:42.3429},
-                    {long:-71.05696, lat:42.32955},
-                    {long:-71.0523927212, lat:42.3214378629},
-                    {long:-71.0532295704, lat:42.311307017},
-                    {long:-71.0607075691, lat:42.3002619819},
-                    {long:-71.0657823086, lat:42.2927943769},
-                    {long:-71.064219, lat:42.285924},
-                    {long:-71.0597419739, lat:42.278420118},
-                    {long:-71.0720801353, lat:42.3612710899}];
+                    {long:-71.0549998283, lat:42.351709611,title:"South Station"},
+                    {long:-71.05713, lat:42.3429,title:"Broadway"},
+                    {long:-71.05696, lat:42.32955,title:"Andrew"},
+                    {long:-71.0523927212, lat:42.3214378629,title:"JFK/UMass"},
+                    {long:-71.0532295704, lat:42.311307017,title:"Savin Hill"},
+                    {long:-71.0607075691, lat:42.3002619819,title:"Fields Corner"},
+                    {long:-71.0657823086, lat:42.2927943769,title:"Shawmut"},
+                    {long:-71.064219, lat:42.285924,title:"Ashmont"},
+                    {long:-71.0597419739, lat:42.278420118,title:"Cedar Grove"},
+                    {long:-71.0720801353, lat:42.3612710899,title:"Charles/MGH"}];
 
                     Arraylist4=[
 //blue
-                    {long:-71.062129, lat: 42.361457},
-                    {long:-71.05357, lat:42.359456},
-                    {long:-71.039926, lat:42.36886},
-                    {long:-71.035194397, lat:42.3727334327},
-                    {long:-71.023394, lat:42.380797},
-                    {long:-71.006628, lat:42.386676},
-                    {long:-71.0003578663, lat:42.3884015915}
+                    {long:-71.062129, lat: 42.361457,title:"Bowdoin"},
+                    {long:-71.05357, lat:42.359456,title:"Aquarium"},
+                    {long:-71.039926, lat:42.36886,title:"Maverick"},
+                    {long:-71.035194397, lat:42.3727334327,title:"Airport"},
+                    {long:-71.023394, lat:42.380797,title:"Wood Island"},
+                    {long:-71.006628, lat:42.386676,title:"Orient Heights"},
+                    {long:-71.0003578663, lat:42.3884015915,title:"Suffolk Downs"}
 
 
 
@@ -258,12 +258,16 @@ d3.queue()
                     })
                     .attr('r', 3)
                     .attr('fill','black')
-                    .on('mouseover', function(d){
+
+                    .on('mouseover', function(d,i){
 
 
                         d3.select(this).attr("class","incident hover");
                         d3.select(this).attr("fill","forestgreen");
-                        d3.select(this).attr("r","5");
+                        d3.select(this).attr("r","6");
+
+                       d3.select(this).append("title")
+                       .text(d.title)
 
 
                     })
@@ -291,7 +295,10 @@ d3.queue()
 
                         d3.select(this).attr("class","incident hover");
                         d3.select(this).attr("fill","darkorange");
-                        d3.select(this).attr("r","5");
+                        d3.select(this).attr("r","6");
+                        d3.select(this).append("title")
+                            .text(d.title)
+
 
 
                     })
@@ -321,8 +328,10 @@ d3.queue()
 
                         d3.select(this).attr("class","incident hover");
                         d3.select(this).attr("fill","red");
-                        d3.select(this).attr("r","5");
+                        d3.select(this).attr("r","6");
 
+                        d3.select(this).append("title")
+                            .text(d.title)
 
                     })
                     .on("mouseout", function(d){
@@ -347,9 +356,10 @@ d3.queue()
 
 
                         d3.select(this).attr("class","incident hover");
-                        d3.select(this).attr("fill","royalBlue");
-                        d3.select(this).attr("r","5");
-
+                        d3.select(this).attr("fill","DodgerBlue ");
+                        d3.select(this).attr("r","6");
+                        d3.select(this).append("title")
+                            .text(d.title)
 
                     })
                     .on("mouseout", function(d){
